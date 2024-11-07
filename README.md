@@ -1,3 +1,3 @@
 Hello
 
-[My Objects Link](https://superty-99.github.io/Objects/)
+[My Objects Link](https://github.com/SuperTy-99/Objects/blob/main/Objects/homework.js)
